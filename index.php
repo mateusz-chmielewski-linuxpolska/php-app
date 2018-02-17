@@ -1,8 +1,7 @@
 Warsztaty OPENSHIFT DAY 2
 
-#ostatnie zmiany
+nowa zmiana
 
-#ostatnie zmiany + jedna zmiana
 <?php
 #$ip = getenv('HTTP_CLIENT_IP')?:
 #echo $ip;
