@@ -7,6 +7,8 @@ nowa zmiana 2
 <br />
 nowa zmiana 3
 <br />
+nowa zmiana 4
+<br />
 
 <?php
 #$ip = getenv('HTTP_CLIENT_IP')?:
