@@ -4,6 +4,5 @@ Warsztaty OPENSHIFT DAY 2
 <br />
 
 <?php
-echo $_SERVER['SERVER_ADDR'].'<br/>';
+echo $_SERVER['SERVER_ADDR'].'<br />';
 ?>
-Testowanie zmian
