@@ -1,7 +1,7 @@
 Warsztaty OPENSHIFT DAY 2
 <br />
 <br />
-Środowisko testowe wersja przedprodukcyjne.
+Środowisko produkcyjne proszę nic nie zmieniać.
 <br />
 
 <?php
