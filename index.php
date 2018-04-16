@@ -1,7 +1,7 @@
 Warsztaty OPENSHIFT DAY 2
 <br />
 <br />
-Środowisko testowe. Dobra zmiana.
+Środowisko produkcyjne. Proszę nic nie zmieniać.
 <br />
 
 <?php
