@@ -1,7 +1,7 @@
 Warsztaty OPENSHIFT DAY 2
 <br />
 <br />
-Środowisko testowe.
+Środowisko testowe. Nowe środowisko przedprodukcyjne.
 <br />
 
 <?php
