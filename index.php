@@ -1,7 +1,7 @@
 Warsztaty OPENSHIFT DAY 2
 <br />
 <br />
-Środowisko testowe. Nowe środowisko produkcyjne.
+Środowisko testowe wersja beta 2.2382389238923
 <br />
 
 <?php
