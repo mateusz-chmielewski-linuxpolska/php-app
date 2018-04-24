@@ -7,6 +7,8 @@ Dobra zmiana, gotowe na produkcje.
 <br />
 Dobra zmiana, gotowe na produkcje.
 <br />
+do TESTa
+<br />
 
 <?php
 echo $_SERVER['SERVER_ADDR'].'<br/>';
