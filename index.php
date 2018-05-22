@@ -7,5 +7,6 @@
 <br />
 
 <?php
-echo 'adres IP poda na którym znajduje się aplikacja ->  '$_SERVER['SERVER_ADDR'].'<br/>';
+echo 'adres IP poda na którym znajduje się aplikacja'
+echo $_SERVER['SERVER_ADDR'].'<br/>';
 ?>
