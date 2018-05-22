@@ -1,13 +1,11 @@
 <h1>OPENSHIFT - source to image</h1>
 <br />
 <br />
-Środowisko produkcyjne proszę nic nie zmieniać.
-<br />
-<img src="LinuxPolska-logo.png">
+<h2>Środowisko produkcyjne proszę nic nie zmieniać.</h2>
 <br />
 <img src="lp.png">
 <br />
 
 <?php
-echo $_SERVER['SERVER_ADDR'].'<br/>';
+echo 'adres IP poda na którym znajduje się aplikacja ->  '$_SERVER['SERVER_ADDR'].'<br/>';
 ?>
